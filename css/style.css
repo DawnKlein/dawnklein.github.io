@@ -18,8 +18,12 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   color: #FFFFFF;
-  size: 100%;
+  size: 125%;
   font-family: 'Alike Angular', serif;
+}
+
+p .header {
+  text-align: center;
 }
 
 a {
