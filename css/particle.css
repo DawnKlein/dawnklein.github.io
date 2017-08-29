@@ -92,7 +92,7 @@ h1::after {
   content: '';
   width: 80px;
   display: block;
-  background: #FFF;
+  background: #FFFFFF;
   height: 10px;
   margin: 30px auto;
   line-height: 1.1;
@@ -110,7 +110,7 @@ p {
   font-size: 18px;
   font-weight: 700;
   line-height: 1;
-  color: #FFF;
+  color: #FFFFFF;
   text-decoration: none;
   -webkit-transition: all 0.4s;
      -moz-transition: all 0.4s;
