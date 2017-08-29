@@ -145,7 +145,7 @@ p {
     font-size: 30px;
   }
   h1::after {
-    height: 6px;
+    height: 3px;
   }
   p {
     font-size: 18px;
