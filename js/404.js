@@ -5,8 +5,10 @@
 
 document.addEventListener('DOMContentLoaded', function () {
   particleground(document.getElementById('particles'), {
-    dotColor: '#171A21',
-    lineColor: '#171A21',
+    //dotColor: '#171A21',
+    //lineColor: '#171A21',
+    dotColor: '#FFFFFF',
+    lineColor: '#FFFFFF',
     density: 30000,
     parallax: true,
     curvedLines: false,
