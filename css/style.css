@@ -23,7 +23,7 @@ p {
 }
 
 div #header {
-  position: absolute;
+  /*position: absolute;*/
   width: 300px;
   height: 200px;
   z-index: 15;
