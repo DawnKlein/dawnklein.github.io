@@ -22,7 +22,7 @@ p {
   font-family: 'Alike Angular', serif;
 }
 
-div #header {
+#header {
   /*position: absolute;*/
   width: 300px;
   /*height: 200px;
