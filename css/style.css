@@ -22,7 +22,7 @@ p {
   font-family: 'Alike Angular', serif;
 }
 
-p .header {
+p #header {
   text-align: center;
 }
 
