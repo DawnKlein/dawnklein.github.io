@@ -23,15 +23,15 @@ p {
 }
 
 div #header {
-  position: absolute;
+  /*position: absolute;
   width: 300px;
   height: 200px;
   z-index: 15;
-  top: 50%;
+  top: 50%;*/
   left: auto;
   right: auto;
-  margin: -100px 0 0 -150px;
-  background: red;
+  /*margin: -100px 0 0 -150px;
+  background: red;*/
   text-align: center;
 }
 
